@@ -38,12 +38,11 @@ const leandro = {
     "Automação"
   ],
 
-  linguagens: ["Python", "C", "JavaScript", "TypeScript", "Dart"],
+  linguagens: ["Python", "C", "JavaScript", "Dart"],
 
   bancos: ["MongoDB", "SQL", "SQLite", "Firebase", "AWS DynamoDB"],
 
   atualmente_estudando: [
-    "Java",
     "Apache Superset",
     "Modelagem de Dados",
     "Arquitetura de Software"
